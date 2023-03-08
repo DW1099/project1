@@ -1,1 +1,77 @@
-111
+（linux 查看pid对应的程序
+	多线程操作一个成员变量
+	docker打包方式
+	外部接口调用怎么增强安全性
+	微服务监控中心
+	elasearch用的哪个包
+  ）
+  
+  
+  
+  hutools databuffer 
+  
+  
+  统招本科，学信网可查，海淀永丰附近不超过1小时公共交通，薪资可谈，一周内到岗
+  
+  
+  
+  订单号是怎么生成的  订单管理对接支付服务了吗  
+  
+  
+  数组链表区别
+  redis常用数据类型
+  springboot 属性 aop IOC 启动流程
+  常用注解
+  
+  微服务负载均衡  nacos注册服务配置属性
+  介绍近期的项目   
+  
+  
+  
+  Object 常用方法
+  springboot 
+  mybatis
+  docker常用命令
+  联合索引
+  
+  
+  
+  synchorize violate
+  暴露公网的接口保证安全性
+  非对称加密
+  介绍近期的项目
+  rabbitmq 消息队列堆积了怎么处理
+  docker常用命令
+  
+  
+  sping 事务机制
+  线程池
+  分布式锁
+  mybatis原理
+  spring加载过程
+  linux查看日志
+  bean生命周期
+  
+  
+  
+  集合
+  常用涉及模式
+  单例设计模式使用场景
+  redis数据类型
+  redislist集合应用常见
+  热点数据
+  spring 请求定义数据类型
+  授权流程
+  维护工作内容
+  连接elasearch的包名
+  session不同服务器同步方式
+  
+  
+  
+  String StringBuffer StringBuilder
+  set添加对象 让两个属性相同的对象筛选掉
+  ribbon和 区别
+  懒加载
+  
+  
+  
