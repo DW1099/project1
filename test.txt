@@ -1,4 +1,49 @@
-（linux 查看pid对应的程序
+plan
+
+1.项目涉及知识点  
+
+spring boot  spring security
+
+redis
+
+linux
+
+中间件
+
+算法题
+
+
+
+Best4you@2021
+
+登录模块
+
+注册模块
+
+后端+前端
+
+springboot+vue
+
+登录模块  spring security 
+
+首页  试卷中心  试题中心  
+
+
+
+ 
+1.jdk1.8.0_202	
+1.1 Aupdate-alternatives --install
+
+zshrc  bashrc bashsrc
+
+
+
+（编写 common admin portal 等模块
+  询问驾校转驾照
+  写算法
+  
+  ）
+  （linux 查看pid对应的程序
 	多线程操作一个成员变量
 	docker打包方式
 	外部接口调用怎么增强安全性
@@ -6,17 +51,11 @@
 	elasearch用的哪个包
   ）
   
-  
-  
   hutools databuffer 
-  
   
   统招本科，学信网可查，海淀永丰附近不超过1小时公共交通，薪资可谈，一周内到岗
   
-  
-  
   订单号是怎么生成的  订单管理对接支付服务了吗  
-  
   
   数组链表区别
   redis常用数据类型
@@ -26,52 +65,126 @@
   微服务负载均衡  nacos注册服务配置属性
   介绍近期的项目   
   
-  
-  
   Object 常用方法
   springboot 
   mybatis
   docker常用命令
   联合索引
   
-  
-  
-  synchorize violate
-  暴露公网的接口保证安全性
-  非对称加密
-  介绍近期的项目
+  synchorize violate		***
+  暴露公网的接口保证安全性   ****
+  非对称加密				***		
+  介绍近期的项目			
   rabbitmq 消息队列堆积了怎么处理
-  docker常用命令
+  docker常用命令			***
   
+  sping 事务机制		***
+  线程池				***
   
-  sping 事务机制
-  线程池
   分布式锁
   mybatis原理
+  
   spring加载过程
-  linux查看日志
+  linux查看日志      ***
   bean生命周期
   
   
   
-  集合
-  常用涉及模式
-  单例设计模式使用场景
-  redis数据类型
+  集合                    ***
+  常用涉及模式            ***
+  单例设计模式使用场景	 ***
+  redis数据类型				
   redislist集合应用常见
   热点数据
-  spring 请求定义数据类型
+  spring 请求定义数据类型   pathparam  pathvarible ()******
   授权流程
   维护工作内容
   连接elasearch的包名
   session不同服务器同步方式
+  线程池拒绝策略
+  拦截器使用场景         ***
   
   
-  
-  String StringBuffer StringBuilder
+  String StringBuffer StringBuilder   ***
   set添加对象 让两个属性相同的对象筛选掉
-  ribbon和 区别
-  懒加载
+  ribbon和feign 区别    ***
+  懒加载   ***
   
   
+  redis分布式锁
+  负载均衡策略
+  ribbon和feign
   
+  
+  linux常用命令 kill  
+  
+  mysql性能调优
+  
+  索引失效场景
+  
+  explain 使用
+  
+  索引覆盖
+  
+  kafka
+  
+  消息队列出现异常怎么排查
+  rabbitmq死信队列和延时队列
+  
+  servlet 生命周期
+  JSP原理
+  jdk 1.8
+  jdk1.9
+  新的api时间日期
+  
+	函数式接口
+	反射
+  
+  spring 事务传播机制
+  介绍复杂的业务逻辑
+  多线程
+  核心线程数 最大线程数 
+	事务失效场景	
+	
+	redis
+	rabbitmq
+	多线程
+	事务
+	分布式
+	微服务
+	项目
+	
+	redis热点数据
+	
+	删除策略淘汰机制
+	
+	索引优缺点  不推荐使用场景
+	
+	mvc流程
+	springboot 启动类 启动方式
+	
+	linux
+	查询所属组
+	删除占用的端口号
+	批量创建文件
+	
+	redis删除缓存
+	查询key
+	
+	查询大量key
+	
+	mysql和oracle区别
+	关键字
+	分页命令
+	
+	java守护线程
+	
+	复制bean
+	
+	序列化反序列化
+	
+	拷贝对象常用的7个工具类
+	
+	守护线程非守护线程
+	
+	
